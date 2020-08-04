@@ -1,2 +1,2 @@
-# Padr-o-Facade
+# Padrao Facade
 Exemplo do padrão de projeto  Facade
